@@ -85,14 +85,3 @@ Software engineer specializing in desktop runtimes, high-throughput automation p
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Armone0&theme=dark&background=0d1117&border=30363d&stroke=10b981&ring=10b981&fire=10b981&currStreakLabel=10b981" alt="GitHub Streak" width="80%"/>
   </a>
 </div>
-
----
-
-<div align="center">
-
-  <!-- Bamboo Emerald Gradient Wave Footer -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:064e3b,40:047857,75:065f46,100:0d1117&height=110&section=footer" width="100%" alt="Footer Wave" />
-
-  <sub>🐼 "Simplicity, calm focus, and resilient software."</sub>
-
-</div>
