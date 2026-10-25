@@ -164,7 +164,7 @@
 
     <rect x="280" y="0" width="135" height="22" rx="11" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
     <circle cx="292" cy="11" r="3.5" fill="#818cf8" />
-    <text x="355" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">TypeScript &amp; Rust</text>
+    <text x="355" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">TypeScript &amp; Node</text>
 
     <rect x="430" y="0" width="130" height="22" rx="11" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
     <circle cx="442" cy="11" r="3.5" fill="#fbbf24" />

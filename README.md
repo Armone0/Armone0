@@ -7,7 +7,7 @@
 
   <!-- Animated Typing Subtitle (Emerald Glow) -->
   <a href="https://github.com/Armone0">
-    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=19&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Engineering+modern+desktop+runtimes+%26+web+architectures.;Crafting+high-performance+tools+with+TypeScript+%26+Rust.;Building+resilient+software+with+a+focused+mindset." alt="Typing Header" />
+    <img src="https://readme-typing-svg.demolab.com?font=Plus+Jakarta+Sans&weight=600&size=19&duration=3200&pause=1000&color=10B981&center=true&vCenter=true&width=700&lines=Engineering+modern+desktop+runtimes+%26+web+architectures.;Building+tools+with+TypeScript%2C+React+%26+Tauri.;Clean+architecture+%C2%B7+Continuous+learning+%C2%B7+Focus." alt="Typing Header" />
   </a>
 
   <p align="center">
@@ -24,7 +24,7 @@
 Software engineer specializing in desktop runtimes, high-throughput automation pipelines, and reactive web applications. Focused on engineering resilient architectures with clean system boundaries, minimal bloat, and high-fidelity user experiences.
 
 * 🔭 **Active Focus**: Contributing to **[Readest](https://github.com/readest/readest)** (Tauri & Next.js desktop reading platform).
-* ⚙️ **Core Stack**: TypeScript, Python, Tauri, Rust, Next.js, and modern full-stack ecosystems.
+* ⚙️ **Core Stack**: TypeScript, Python, Tauri, Next.js, and modern web & desktop runtimes.
 * 🌿 **Principles**: Minimalist design, sustainable code quality, and calm, disciplined execution.
 
 ---
@@ -43,9 +43,9 @@ Software engineer specializing in desktop runtimes, high-throughput automation p
 
 <div align="center">
 
-  <!-- SkillIcons: Official Full-Color Brand Badges -->
+  <!-- SkillIcons: Curated Brand Badges -->
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,py,rust,java,react,nextjs,tailwind,threejs,tauri,nodejs,postgres,sqlite,docker,linux,git,github,vscode&perline=9&theme=dark" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,react,nextjs,tailwind,tauri,nodejs,git,vscode&theme=dark" alt="Tech Stack" />
   </a>
 
 </div>
@@ -56,10 +56,9 @@ Software engineer specializing in desktop runtimes, high-throughput automation p
 
 | Domain | Stack |
 | :--- | :--- |
-| **Languages** | `TypeScript` · `JavaScript` · `Python` · `Rust` · `Java` |
-| **Frontend & Creative** | `React` · `Next.js` · `Tailwind CSS` · `Three.js` · `GSAP` |
-| **Desktop & Backend** | `Tauri` · `Node.js` · `PostgreSQL` · `SQLite` |
-| **DevOps & Environment** | `Docker` · `Linux` · `Git` · `PowerShell` |
+| **Languages** | `TypeScript` · `JavaScript` · `Python` · `Java` |
+| **Frontend & Desktop** | `React` · `Next.js` · `Tailwind CSS` · `Tauri` |
+| **Environment & Tools** | `Node.js` · `Git` · `VS Code` |
 
 </div>
 
