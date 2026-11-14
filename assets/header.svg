@@ -74,6 +74,10 @@
         letter-spacing: 1px;
         fill: #94a3b8;
       }
+      .stars circle{animation:twinkle 3.6s ease-in-out infinite}
+      .stars circle:nth-child(2n){animation-delay:1.2s}
+      .stars circle:nth-child(3n){animation-delay:2.4s}
+      @keyframes twinkle{0%,100%{opacity:.25}50%{opacity:1}}
     </style>
   </defs>
 
@@ -84,7 +88,7 @@
   <circle cx="425" cy="85" r="190" fill="url(#emeraldGlow)" />
 
   <!-- Subtle Minimal Tech Grid/Particles -->
-  <g opacity="0.3">
+  <g class="stars" opacity="0.3">
     <circle cx="120" cy="50" r="1.5" fill="#34d399" />
     <circle cx="200" cy="180" r="1" fill="#fff" />
     <circle cx="320" cy="65" r="1.5" fill="#34d399" />
@@ -155,19 +159,19 @@
   <!-- Tech Capsule Pills -->
   <g transform="translate(145, 217)">
     <rect x="0" y="0" width="125" height="22" rx="11" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
-    <circle cx="12" cy="11" r="3.5" fill="#38bdf8" />
-    <text x="70" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">Tauri &amp; Desktop</text>
+    <circle cx="12" cy="11" r="3.5" fill="#178600" />
+    <text x="70" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">C# &amp; .NET</text>
 
     <rect x="140" y="0" width="125" height="22" rx="11" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
     <circle cx="152" cy="11" r="3.5" fill="#34d399" />
-    <text x="210" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">Next.js &amp; React</text>
+    <text x="210" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">Rust &amp; Systems</text>
 
     <rect x="280" y="0" width="135" height="22" rx="11" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
     <circle cx="292" cy="11" r="3.5" fill="#818cf8" />
-    <text x="355" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">TypeScript &amp; Node</text>
+    <text x="355" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">TypeScript &amp; Web</text>
 
     <rect x="430" y="0" width="130" height="22" rx="11" fill="#0f172a" stroke="#1e293b" stroke-width="1" />
     <circle cx="442" cy="11" r="3.5" fill="#fbbf24" />
-    <text x="502" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">Python &amp; Pipelines</text>
+    <text x="502" y="15" text-anchor="middle" font-family="'Plus Jakarta Sans', sans-serif" font-size="10.5" font-weight="600" fill="#f1f5f9">Python &amp; Tools</text>
   </g>
 </svg>
